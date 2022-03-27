@@ -1,4 +1,7 @@
 # Default ignored files
+*.jpg
+/out
+/lib
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
@@ -6,3 +9,7 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+# Package Files #
+*.jar
+
